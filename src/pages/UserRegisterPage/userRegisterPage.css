@@ -1,0 +1,49 @@
+.labelForm {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    padding: 0 0 0 10px;
+}
+
+input {
+    color: #000;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+
+.topText {
+    color: #fff;
+    font-size: 45px;
+    padding: 50px 0 30px 0;
+    font-weight: 800;
+}
+
+h1 , label {
+    color: #fff;
+    font-weight: 800;
+    font-family: Cursive;
+    font-size: 17px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-image: url('https://kartinkin.net/pics/uploads/posts/2022-08/1659857859_53-kartinkin-net-p-sinii-fon-dlya-storis-krasivo-53.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.allBlock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
